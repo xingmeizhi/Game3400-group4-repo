@@ -3,7 +3,27 @@ guid: 9547bcbefd1c53e4fbd2ab05b0e12558
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: barrel_02_Metal_Steel1
+    second: {fileID: 2100000, guid: 8a83eb421bcd43e47aa52dbf1e7b7a98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: 8a83eb421bcd43e47aa52dbf1e7b7a98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert3
+    second: {fileID: 2100000, guid: 8a83eb421bcd43e47aa52dbf1e7b7a98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: standardSurface1
+    second: {fileID: 2100000, guid: 8a83eb421bcd43e47aa52dbf1e7b7a98, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
