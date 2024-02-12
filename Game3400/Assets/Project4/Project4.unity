@@ -33221,9 +33221,25 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5913160582925554498, guid: cce9029eab354b64eb151e2e99983711, type: 3}
+      propertyPath: moveSpeed
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5913160582925554498, guid: cce9029eab354b64eb151e2e99983711, type: 3}
+      propertyPath: airControl
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5913160582925554498, guid: cce9029eab354b64eb151e2e99983711, type: 3}
+      propertyPath: jumpHeight
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7163644373768480811, guid: cce9029eab354b64eb151e2e99983711, type: 3}
       propertyPath: m_Name
       value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 7264988241961348437, guid: cce9029eab354b64eb151e2e99983711, type: 3}
+      propertyPath: m_SlopeLimit
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
