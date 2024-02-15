@@ -8,12 +8,12 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: aiStandardSurface1
-    second: {fileID: 2100000, guid: b425adb4554e3c94d8f8eeca4a58987c, type: 2}
+    second: {fileID: 2100000, guid: 736bde9cd1b4f6040bd5d9c4cb6c8a1e, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: math1
-    second: {fileID: 5145566846651215214, guid: cc130dc9be2cc51438ca7897788ebd00, type: 3}
+    second: {fileID: -4125471728267972529, guid: 79450a73a1f4db744967c5c287fd2cca, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0

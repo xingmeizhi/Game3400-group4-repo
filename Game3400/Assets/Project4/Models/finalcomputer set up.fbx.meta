@@ -3,7 +3,42 @@ guid: 6658838e05a96cf4396ed2ee7d053386
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: computer1
+    second: {fileID: 2100000, guid: 4d2f8e5610b15a94a9449f05c3f21071, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: keyboard1
+    second: {fileID: 2100000, guid: 89ebd65dbf0aebd4a99ce209516bf6d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor1
+    second: {fileID: 2100000, guid: 0091c9bc44eb48541bbaebceeeb622e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mouse1
+    second: {fileID: 2100000, guid: f6161a12639ae19429c47e633d83f8ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mousepad
+    second: {fileID: 2100000, guid: fdfb4de84718ca642a50f24c272b50e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: screen1
+    second: {fileID: 2100000, guid: 3c8d8f6ea217ff7419f2dcd0aae82c99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire1
+    second: {fileID: 2100000, guid: 9b923053647e7294698fc1da0dc4e4b7, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
