@@ -8,7 +8,7 @@ public class FlashingLight : MonoBehaviour
     public AudioSource audioSource;
     public AudioClip glitchSound;
     private float glitchDuration = 1.437f;
-    private float repeatTime = 10f;
+    public float repeatTime = 5f;
     // Start is called before the first frame update
     void Start()
     {

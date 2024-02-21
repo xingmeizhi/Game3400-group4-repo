@@ -63672,7 +63672,7 @@ Light:
   m_Type: 2
   m_Shape: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 1
+  m_Intensity: 1.93
   m_Range: 11
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -63848,6 +63848,7 @@ MonoBehaviour:
   pointLight: {fileID: 1174370444}
   audioSource: {fileID: 1174370446}
   glitchSound: {fileID: 8300000, guid: 2798c8fb544624f4bb9b63030fd6a0bd, type: 3}
+  repeatTime: 5
 --- !u!1001 &1177111757
 PrefabInstance:
   m_ObjectHideFlags: 0
