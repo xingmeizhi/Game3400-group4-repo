@@ -17155,6 +17155,63 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 7536603786884605139, guid: d8c05baa79d1fa047b39f0497d1b31b8, type: 3}
   m_PrefabInstance: {fileID: 338577063}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &338653771
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 5f868a37727944a3fbb70f60e2f7aceb, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.577
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5f868a37727944a3fbb70f60e2f7aceb, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.865
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5f868a37727944a3fbb70f60e2f7aceb, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 4.575
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5f868a37727944a3fbb70f60e2f7aceb, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5f868a37727944a3fbb70f60e2f7aceb, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5f868a37727944a3fbb70f60e2f7aceb, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5f868a37727944a3fbb70f60e2f7aceb, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5f868a37727944a3fbb70f60e2f7aceb, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5f868a37727944a3fbb70f60e2f7aceb, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5f868a37727944a3fbb70f60e2f7aceb, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5f868a37727944a3fbb70f60e2f7aceb, type: 3}
+      propertyPath: m_Name
+      value: finalcheese
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5f868a37727944a3fbb70f60e2f7aceb, type: 3}
 --- !u!43 &343318555
 Mesh:
   m_ObjectHideFlags: 0
@@ -32154,7 +32211,7 @@ GameObject:
   - component: {fileID: 648228685}
   - component: {fileID: 648228686}
   m_Layer: 0
-  m_Name: Spot Light
+  m_Name: rat Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -60214,7 +60271,7 @@ Transform:
   m_GameObject: {fileID: 1174370443}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 3.3608005, y: -0.324, z: 4.957}
+  m_LocalPosition: {x: 3.3608005, y: -0.332, z: 5.006}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -115218,3 +115275,4 @@ SceneRoots:
   - {fileID: 233177102}
   - {fileID: 918516558}
   - {fileID: 1174370445}
+  - {fileID: 338653771}
