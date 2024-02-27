@@ -32253,6 +32253,16 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6941278333988796096, guid: 4a77a5a63c8c3ab4693f7f60b67ee4b1, type: 3}
+      propertyPath: dialogText
+      value: The ice... it burns more than any flame. Have you the means to heal
+        these frostbitten scales?
+      objectReference: {fileID: 0}
+    - target: {fileID: 6941278333988796096, guid: 4a77a5a63c8c3ab4693f7f60b67ee4b1, type: 3}
+      propertyPath: playerText
+      value: With a mix of these potions, I can mend your wounds. Hold steady, my
+        friend.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6941278333988796096, guid: 4a77a5a63c8c3ab4693f7f60b67ee4b1, type: 3}
       propertyPath: DialogManager
       value: 
       objectReference: {fileID: 1609846906}
@@ -50352,6 +50362,16 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6941278333988796096, guid: 4a77a5a63c8c3ab4693f7f60b67ee4b1, type: 3}
+      propertyPath: dialogText
+      value: Enemy waters have quenched much of our might. Can your arts reverse
+        such deep-seated chills?
+      objectReference: {fileID: 0}
+    - target: {fileID: 6941278333988796096, guid: 4a77a5a63c8c3ab4693f7f60b67ee4b1, type: 3}
+      propertyPath: playerText
+      value: Yes, with these syringes filled with liquid warmth. You will feel your
+        vigor returning momentarily.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6941278333988796096, guid: 4a77a5a63c8c3ab4693f7f60b67ee4b1, type: 3}
       propertyPath: DialogManager
       value: 
       objectReference: {fileID: 1609846906}
@@ -51856,6 +51876,15 @@ PrefabInstance:
     - target: {fileID: 3716522467322885874, guid: 4a77a5a63c8c3ab4693f7f60b67ee4b1, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6941278333988796096, guid: 4a77a5a63c8c3ab4693f7f60b67ee4b1, type: 3}
+      propertyPath: dialogText
+      value: My fire dims, healer. I fear I won't last the night.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6941278333988796096, guid: 4a77a5a63c8c3ab4693f7f60b67ee4b1, type: 3}
+      propertyPath: playerText
+      value: Fear not, for my elixirs will reignite your inner flame. Drink, and
+        let your strength be restored.
       objectReference: {fileID: 0}
     - target: {fileID: 6941278333988796096, guid: 4a77a5a63c8c3ab4693f7f60b67ee4b1, type: 3}
       propertyPath: DialogManager
