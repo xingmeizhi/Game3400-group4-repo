@@ -708,6 +708,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Medical Table(Bandages)
       objectReference: {fileID: 0}
+    - target: {fileID: 4718380644927790064, guid: 23a22eff79fb00449a91d6533ddf9a60, type: 3}
+      propertyPath: DialogManager
+      value: 
+      objectReference: {fileID: 1609846906}
     - target: {fileID: 4813860689465972548, guid: 23a22eff79fb00449a91d6533ddf9a60, type: 3}
       propertyPath: m_Mesh
       value: 
@@ -1036,6 +1040,14 @@ PrefabInstance:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 131044134}
+    - target: {fileID: 8724858101145543993, guid: 23a22eff79fb00449a91d6533ddf9a60, type: 3}
+      propertyPath: m_Radius
+      value: 0.06
+      objectReference: {fileID: 0}
+    - target: {fileID: 8724858101145543993, guid: 23a22eff79fb00449a91d6533ddf9a60, type: 3}
+      propertyPath: m_Center.z
+      value: 0.05
+      objectReference: {fileID: 0}
     - target: {fileID: 9125951254060069279, guid: 23a22eff79fb00449a91d6533ddf9a60, type: 3}
       propertyPath: m_Mesh
       value: 
@@ -2881,7 +2893,7 @@ MeshCollider:
   serializedVersion: 5
   m_Convex: 0
   m_CookingOptions: 30
-  m_Mesh: {fileID: 52226927}
+  m_Mesh: {fileID: 569618152}
 --- !u!33 &129989959
 MeshFilter:
   m_ObjectHideFlags: 10
@@ -17317,6 +17329,26 @@ PrefabInstance:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 1744509957}
+    - target: {fileID: 2763522154032674641, guid: 9bd5cc848ef44074aa878af88042d1be, type: 3}
+      propertyPath: m_Size.x
+      value: 0.19
+      objectReference: {fileID: 0}
+    - target: {fileID: 2763522154032674641, guid: 9bd5cc848ef44074aa878af88042d1be, type: 3}
+      propertyPath: m_Size.y
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 2763522154032674641, guid: 9bd5cc848ef44074aa878af88042d1be, type: 3}
+      propertyPath: m_Size.z
+      value: 0.09
+      objectReference: {fileID: 0}
+    - target: {fileID: 2763522154032674641, guid: 9bd5cc848ef44074aa878af88042d1be, type: 3}
+      propertyPath: m_Center.x
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 2763522154032674641, guid: 9bd5cc848ef44074aa878af88042d1be, type: 3}
+      propertyPath: m_Center.z
+      value: 0.09
+      objectReference: {fileID: 0}
     - target: {fileID: 2816856829429725390, guid: 9bd5cc848ef44074aa878af88042d1be, type: 3}
       propertyPath: m_Mesh
       value: 
@@ -17369,6 +17401,10 @@ PrefabInstance:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 1376980638}
+    - target: {fileID: 3890398990163647815, guid: 9bd5cc848ef44074aa878af88042d1be, type: 3}
+      propertyPath: DialogManager
+      value: 
+      objectReference: {fileID: 1609846906}
     - target: {fileID: 4028246880740604144, guid: 9bd5cc848ef44074aa878af88042d1be, type: 3}
       propertyPath: m_Mesh
       value: 
@@ -17617,6 +17653,10 @@ PrefabInstance:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 2022572177}
+    - target: {fileID: 7059755655045376905, guid: 9bd5cc848ef44074aa878af88042d1be, type: 3}
+      propertyPath: DialogManager
+      value: 
+      objectReference: {fileID: 1609846906}
     - target: {fileID: 7132638338343171562, guid: 9bd5cc848ef44074aa878af88042d1be, type: 3}
       propertyPath: m_Mesh
       value: 
