@@ -14,7 +14,6 @@ GameObject:
   - component: {fileID: 9222881955404170628}
   - component: {fileID: 7492124581683667622}
   - component: {fileID: 4421315020257058143}
-  - component: {fileID: 6570181949512732541}
   m_Layer: 0
   m_Name: 'Red ward crystals '
   m_TagString: Untagged
@@ -45,7 +44,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3428369596209255103}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8233d90336aea43098adf6dbabd606a2, type: 3}
   m_Name: 
@@ -306,22 +305,6 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 0}
---- !u!114 &6570181949512732541
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3428369596209255103}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 17984b72a2a59084fbc62af38f5c203f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  DialogManager: {fileID: 0}
-  dialogText: 
-  playerText: These crystals pulsate with a protective aura, keeping the harsh elements
-    at bay and safeguarding our refuge.
 --- !u!1001 &7217564300242852991
 PrefabInstance:
   m_ObjectHideFlags: 0

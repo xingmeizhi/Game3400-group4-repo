@@ -8253,10 +8253,6 @@ PrefabInstance:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 0}
-    - target: {fileID: 7492124581683667622, guid: 251b019fa59a3644c8d21922965d7908, type: 3}
-      propertyPath: m_Mesh
-      value: 
-      objectReference: {fileID: 0}
     - target: {fileID: 9029664418076022477, guid: 251b019fa59a3644c8d21922965d7908, type: 3}
       propertyPath: m_LocalScale.x
       value: 1.6666665
@@ -8310,14 +8306,19 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 9215359765987030280, guid: 251b019fa59a3644c8d21922965d7908, type: 3}
-      propertyPath: m_Mesh
-      value: 
+      propertyPath: m_Enabled
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 9215359765987030280, guid: 251b019fa59a3644c8d21922965d7908, type: 3}
       propertyPath: m_VersionIndex
       value: 141
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 9215359765987030280, guid: 251b019fa59a3644c8d21922965d7908, type: 3}
+      propertyPath: m_Tangents.Array.size
+      value: 24
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 6570181949512732541, guid: 251b019fa59a3644c8d21922965d7908, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -8340,10 +8341,6 @@ PrefabInstance:
       value: Red ward crystals  (2)
       objectReference: {fileID: 0}
     - target: {fileID: 4421315020257058143, guid: 251b019fa59a3644c8d21922965d7908, type: 3}
-      propertyPath: m_Mesh
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 7492124581683667622, guid: 251b019fa59a3644c8d21922965d7908, type: 3}
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 0}
@@ -8400,14 +8397,19 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 9215359765987030280, guid: 251b019fa59a3644c8d21922965d7908, type: 3}
-      propertyPath: m_Mesh
-      value: 
+      propertyPath: m_Enabled
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 9215359765987030280, guid: 251b019fa59a3644c8d21922965d7908, type: 3}
       propertyPath: m_VersionIndex
       value: 141
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 9215359765987030280, guid: 251b019fa59a3644c8d21922965d7908, type: 3}
+      propertyPath: m_Tangents.Array.size
+      value: 24
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 6570181949512732541, guid: 251b019fa59a3644c8d21922965d7908, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -8430,10 +8432,6 @@ PrefabInstance:
       value: Red ward crystals  (3)
       objectReference: {fileID: 0}
     - target: {fileID: 4421315020257058143, guid: 251b019fa59a3644c8d21922965d7908, type: 3}
-      propertyPath: m_Mesh
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 7492124581683667622, guid: 251b019fa59a3644c8d21922965d7908, type: 3}
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 0}
@@ -8490,12 +8488,16 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 9215359765987030280, guid: 251b019fa59a3644c8d21922965d7908, type: 3}
-      propertyPath: m_Mesh
-      value: 
+      propertyPath: m_Enabled
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 9215359765987030280, guid: 251b019fa59a3644c8d21922965d7908, type: 3}
       propertyPath: m_VersionIndex
       value: 141
+      objectReference: {fileID: 0}
+    - target: {fileID: 9215359765987030280, guid: 251b019fa59a3644c8d21922965d7908, type: 3}
+      propertyPath: m_Tangents.Array.size
+      value: 24
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8661,10 +8663,6 @@ PrefabInstance:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 0}
-    - target: {fileID: 7492124581683667622, guid: 251b019fa59a3644c8d21922965d7908, type: 3}
-      propertyPath: m_Mesh
-      value: 
-      objectReference: {fileID: 0}
     - target: {fileID: 9029664418076022477, guid: 251b019fa59a3644c8d21922965d7908, type: 3}
       propertyPath: m_LocalScale.x
       value: 1.6666665
@@ -8718,14 +8716,19 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 9215359765987030280, guid: 251b019fa59a3644c8d21922965d7908, type: 3}
-      propertyPath: m_Mesh
-      value: 
+      propertyPath: m_Enabled
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 9215359765987030280, guid: 251b019fa59a3644c8d21922965d7908, type: 3}
       propertyPath: m_VersionIndex
       value: 141
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 9215359765987030280, guid: 251b019fa59a3644c8d21922965d7908, type: 3}
+      propertyPath: m_Tangents.Array.size
+      value: 24
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 6570181949512732541, guid: 251b019fa59a3644c8d21922965d7908, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
