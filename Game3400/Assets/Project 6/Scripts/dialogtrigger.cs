@@ -10,7 +10,14 @@ public class DialogTrigger : MonoBehaviour
     private bool dialogShown = false;
     void Start()
     {
-
+        if (DialogManager == null)
+        {
+            GameObject dialogManagerObj = GameObject.FindGameObjectWithTag("dialogmanager");
+            if (dialogManagerObj != null)
+            {
+                DialogManager = dialogManagerObj.GetComponent<DialogManagerforP6>();
+            }
+        }
     }
 
     void Update()
