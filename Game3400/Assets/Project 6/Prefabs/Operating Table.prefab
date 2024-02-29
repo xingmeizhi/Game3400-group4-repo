@@ -1951,7 +1951,7 @@ MonoBehaviour:
   m_PreserveMeshAssetOnDestroy: 0
   assetGuid: 
   m_Mesh: {fileID: 0}
-  m_VersionIndex: 36
+  m_VersionIndex: 42
   m_IsSelectable: 1
   m_SelectedFaces: 
   m_SelectedEdges: []
@@ -8249,6 +8249,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Red ward crystals  (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 4421315020257058143, guid: 251b019fa59a3644c8d21922965d7908, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7492124581683667622, guid: 251b019fa59a3644c8d21922965d7908, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9029664418076022477, guid: 251b019fa59a3644c8d21922965d7908, type: 3}
       propertyPath: m_LocalScale.x
       value: 1.6666665
@@ -8301,6 +8309,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 9215359765987030280, guid: 251b019fa59a3644c8d21922965d7908, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 9215359765987030280, guid: 251b019fa59a3644c8d21922965d7908, type: 3}
+      propertyPath: m_VersionIndex
+      value: 141
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8322,6 +8338,14 @@ PrefabInstance:
     - target: {fileID: 3428369596209255103, guid: 251b019fa59a3644c8d21922965d7908, type: 3}
       propertyPath: m_Name
       value: Red ward crystals  (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4421315020257058143, guid: 251b019fa59a3644c8d21922965d7908, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7492124581683667622, guid: 251b019fa59a3644c8d21922965d7908, type: 3}
+      propertyPath: m_Mesh
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 9029664418076022477, guid: 251b019fa59a3644c8d21922965d7908, type: 3}
       propertyPath: m_LocalScale.x
@@ -8375,6 +8399,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 9215359765987030280, guid: 251b019fa59a3644c8d21922965d7908, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 9215359765987030280, guid: 251b019fa59a3644c8d21922965d7908, type: 3}
+      propertyPath: m_VersionIndex
+      value: 141
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8396,6 +8428,14 @@ PrefabInstance:
     - target: {fileID: 3428369596209255103, guid: 251b019fa59a3644c8d21922965d7908, type: 3}
       propertyPath: m_Name
       value: Red ward crystals  (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4421315020257058143, guid: 251b019fa59a3644c8d21922965d7908, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7492124581683667622, guid: 251b019fa59a3644c8d21922965d7908, type: 3}
+      propertyPath: m_Mesh
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 9029664418076022477, guid: 251b019fa59a3644c8d21922965d7908, type: 3}
       propertyPath: m_LocalScale.x
@@ -8448,6 +8488,14 @@ PrefabInstance:
     - target: {fileID: 9029664418076022477, guid: 251b019fa59a3644c8d21922965d7908, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9215359765987030280, guid: 251b019fa59a3644c8d21922965d7908, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 9215359765987030280, guid: 251b019fa59a3644c8d21922965d7908, type: 3}
+      propertyPath: m_VersionIndex
+      value: 141
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8609,6 +8657,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: 'Red ward crystals '
       objectReference: {fileID: 0}
+    - target: {fileID: 4421315020257058143, guid: 251b019fa59a3644c8d21922965d7908, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7492124581683667622, guid: 251b019fa59a3644c8d21922965d7908, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 9029664418076022477, guid: 251b019fa59a3644c8d21922965d7908, type: 3}
       propertyPath: m_LocalScale.x
       value: 1.6666665
@@ -8660,6 +8716,14 @@ PrefabInstance:
     - target: {fileID: 9029664418076022477, guid: 251b019fa59a3644c8d21922965d7908, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9215359765987030280, guid: 251b019fa59a3644c8d21922965d7908, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 9215359765987030280, guid: 251b019fa59a3644c8d21922965d7908, type: 3}
+      propertyPath: m_VersionIndex
+      value: 141
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
