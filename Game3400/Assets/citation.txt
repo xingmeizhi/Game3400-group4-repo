@@ -1,0 +1,10 @@
+
+PROJECT 6:
+skybox:
+https://assetstore.unity.com/packages/2d/textures-materials/sky/skybox-series-free-103633
+
+fabric texture:
+https://ambientcg.com/view?id=Fabric001
+
+rock/ground texture:
+https://assetstore.unity.com/packages/2d/textures-materials/floors/hand-painted-seamless-lava-texture-158352
